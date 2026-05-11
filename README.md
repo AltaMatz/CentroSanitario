@@ -1,2 +1,2 @@
 # CentroSanitario
-Progettazione di una rete per un centro sanitario su Cisco Packet Tracer
+Progettazione di una rete per un centro sanitario su Cisco Packet Tracer (v8.2.2)
